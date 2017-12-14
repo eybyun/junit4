@@ -191,12 +191,13 @@
                     </execution>
                 </executions>
             </plugin>
+             <!--  새로운 로직  -->
             <!-- 
             <plugin>
                 <groupId>com.google.code.maven-replacer-plugin</groupId>
                 <artifactId>replacer</artifactId>
                 <version>1.5.3</version>
-                <executions>
+                <executions>ㄴ
                     <execution>
                         <phase>process-sources</phase>
                         <goals>
